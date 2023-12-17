@@ -1,4 +1,4 @@
-package com.dados;
+package com.sigaa.dados;
 
 public class FabricaRepositorios {
     

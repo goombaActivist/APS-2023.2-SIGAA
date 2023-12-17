@@ -1,5 +1,5 @@
 package com.sigaa.controladores;
 
-public class ControleBolsa {
+public class FabricaRepositorio {
     
 }

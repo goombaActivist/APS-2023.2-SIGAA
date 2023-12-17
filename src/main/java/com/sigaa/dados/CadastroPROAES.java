@@ -1,1 +1,1 @@
-package com.dados;
+package com.sigaa.dados;

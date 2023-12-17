@@ -8,13 +8,13 @@
 		<version>2.5.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example</groupId>
-	<artifactId>demo</artifactId>
+	<groupId>com.sigaa</groupId>
+	<artifactId>sigaa</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo</name>
-	<description>Demo project for Spring Boot</description>
+	<name>sigaa</name>
+	<description>Implementação do SIGAA via FrameworkSpring</description>
 	<properties>
-		<java.version>1.8</java.version>
+		<!-- <java.version>1.8</java.version> -->
 	</properties>
 	<dependencies>
 		<dependency>

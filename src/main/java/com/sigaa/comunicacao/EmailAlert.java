@@ -1,1 +1,1 @@
-package com.comunicacao;
+package com.sigaa.comunicacao;
